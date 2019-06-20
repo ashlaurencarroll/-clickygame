@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashlaurencarroll/clickygame/static/css/main.cc3a95e4.chunk.css",
+    "main.js": "/ashlaurencarroll/clickygame/static/js/main.fff2570d.chunk.js",
+    "main.js.map": "/ashlaurencarroll/clickygame/static/js/main.fff2570d.chunk.js.map",
+    "runtime~main.js": "/ashlaurencarroll/clickygame/static/js/runtime~main.3899fc9f.js",
+    "runtime~main.js.map": "/ashlaurencarroll/clickygame/static/js/runtime~main.3899fc9f.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/ashlaurencarroll/clickygame/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/ashlaurencarroll/clickygame/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/ashlaurencarroll/clickygame/index.html",
+    "precache-manifest.e220306f7a49e84f1ef8b7bcca5b1bde.js": "/ashlaurencarroll/clickygame/precache-manifest.e220306f7a49e84f1ef8b7bcca5b1bde.js",
+    "service-worker.js": "/ashlaurencarroll/clickygame/service-worker.js",
+    "static/css/main.cc3a95e4.chunk.css.map": "/ashlaurencarroll/clickygame/static/css/main.cc3a95e4.chunk.css.map"
+  }
+}
